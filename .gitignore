@@ -18,3 +18,9 @@ Desktop.ini
 # IDE / Editor
 .vscode/
 .idea/
+
+# Private Operational CRM & Field Intelligence (POPIA & Commercial Confidentiality)
+_INTERNAL/
+06_EVIDENCE/INTERNAL_CRM/
+*.private.md
+*.private.json
